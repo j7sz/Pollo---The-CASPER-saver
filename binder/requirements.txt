@@ -1,0 +1,6 @@
+cbor2
+ecdsa
+matplotlib
+numpy
+pandas
+scipy

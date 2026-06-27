@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Go
+*.exe
+*.test
+*.out
+vendor/
+
+# Storage files (runtime-generated)
+prototype/storage/pms_passkeys.byte
+prototype/storage/rp_passkeys.bin
+
+# Editor
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+
+notes.txt
