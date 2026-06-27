@@ -1,0 +1,5 @@
+ecdsa
+matplotlib
+numpy
+pandas
+scipy
